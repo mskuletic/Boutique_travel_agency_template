@@ -1,0 +1,190 @@
+/* colors #d54062 #ffa36c #ebdc87 #00334e */
+
+body {
+    color: #00334e;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Montserrat', sans-serif;
+    /* text-transform: uppercase; */
+    color: #00334e;
+}
+
+p {
+    color: #00334e;
+}
+
+hr {
+    width: 50%;
+    align-content: center;
+    background-color: #ebdc87;
+    margin-bottom: 4rem !important;
+    margin-top: 4rem !important;
+}
+
+a:link {
+    color: #00334e;
+}
+
+a:hover {
+    color: #d54062 !important;
+    cursor: hand;
+    text-decoration: none !important;
+}
+
+
+.container-fluid {
+    padding: 0 !important;
+}
+
+.navbar {
+    font-size: 1.6rem;
+    border-bottom: 8px solid #d54062;
+    opacity: 0.9;
+    letter-spacing: 0.15rem;
+}
+
+.nav-item a {
+    color: #00334e !important;
+}
+
+.intro {
+    height: 100vh;
+    background-image: url(images/header-image.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.intro-about {
+    height: 100vh;
+    background-image: url(images/header-about.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.intro h1 {
+    color: #00334e;
+    text-align: center;
+    justify-content: center;
+    padding-top: 11rem;
+    font-weight: 900;
+    font-size: 4rem;
+}
+
+.intro-about h1 {
+    color: #000;
+    text-align: center;
+    justify-content: center;
+    padding-top: 11rem;
+    font-weight: 900;
+    font-size: 4rem;
+}
+
+.intro h2 {
+    color: #d54062;
+    text-align: center;
+    justify-content: center;
+    padding-top: 4rem;
+    font-weight: 900;
+    font-size: 4rem;
+}
+
+.intro-about h2 {
+    color: #fff;
+    text-align: center;
+    justify-content: center;
+    padding-top: 4rem;
+    font-weight: 900;
+    font-size: 4rem;
+}
+
+.intro-contact {
+    height: 100vh;
+    background-image: url(images/contact.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.intro-contact h1 {
+    color: #000;
+    text-align: center;
+    justify-content: center;
+    padding-top: 11rem;
+    font-weight: 900;
+    font-size: 4rem;
+}
+.amenities h1 {
+    text-align: center;
+    justify-content: center;
+    padding: 2rem 0rem 2rem 0rem;
+    font-weight: 900;
+    font-size: 4rem;
+}
+
+.amenities p {
+    text-align: center;
+    justify-content: center;
+    padding: 1rem 0rem;
+}
+
+#svg {
+    text-align: center;
+    padding-top: 1rem;
+}
+
+.pop-des-img {
+    padding-bottom: 1rem;
+}
+
+.img-question {
+    border-radius: 20px;
+}
+
+.blue-background {
+    background-color: #00334e;
+    color: #fff;
+    text-align: center;
+}
+
+.blue-background label {
+    font-size: 2rem;
+    text-transform: uppercase;
+}
+
+.blue-background button {
+    text-transform: uppercase;
+}
+
+.soc-ico {
+    padding: 0px 20px !important;
+}
+
+.footer {
+    margin-top: 3rem;
+    text-align: center;
+    margin-bottom: 0px !important;
+    height: 2rem;
+    border-top: 1px #ffa36c solid;
+}
+
+.footer p {
+    padding-top: 1rem;
+}
+
+.destinations h2 {
+    padding-top: 1rem;
+}
+
+.padding-top {
+    padding-top: 5rem;
+}
+.item-contact{
+    color: #d54062;
+    font-weight: bold;
+    text-decoration: underline;
+}
